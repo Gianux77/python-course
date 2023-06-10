@@ -8,3 +8,5 @@ saludar= m_saludar.saludar("Frank")
 # print(type(modulos))
 
 print(saludar)
+
+print(dir(m_saludar))
